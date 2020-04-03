@@ -1,0 +1,3 @@
+mall项目parent模块
+
+因为目前springcloud还不怎么支持grpc，所以grpc的包和springboot的包修改版本需谨慎，版本冲突调服务时就会报奇怪的错误。
